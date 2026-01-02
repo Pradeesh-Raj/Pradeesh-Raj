@@ -9,7 +9,9 @@ Hii👋,I'm Pradeesh Raj S<br>💻I'm interested in Cyber Security and Software 
 
 ## 🖥️ Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=debian,kali,mint,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali&theme=dark)](https://kali.org)
+[![My Skills](https://skillicons.dev/icons?i=mint&theme=dark)](https://www.linuxmint.com)
+[![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.microsoft.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pradeesh-Raj&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
