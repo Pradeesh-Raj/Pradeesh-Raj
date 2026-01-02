@@ -2,7 +2,7 @@
 Hii👋,I'm Pradeesh Raj S<br>💻I'm interested in Cyber Security and Software Development.<br>📕 I’m currently learning Penetration Testing.<br>Peak Interest Areas:<br>    🔴 Red Teaming<br>    ⌨️ Programming<br>    🚩 Problem Solving<br>    🫆 Cyber Forensics<br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,c++)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/btw.pradeesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pradeesh-raj-s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pradeeshs835) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeeshs835@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Pradeesh_Raj_S/)
