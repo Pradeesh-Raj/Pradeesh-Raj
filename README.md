@@ -1,16 +1,15 @@
 # 💫 About Me:
 Hii👋,I'm Pradeesh Raj S<br>💻I'm interested in Cyber Security and Software Development.<br>📕 I’m currently learning Penetration Testing.<br>Peak Interest Areas:<br>    🔴 Red Teaming<br>    ⌨️ Programming<br>    🚩 Problem Solving<br>    🫆 Cyber Forensics<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/btw.pradeesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pradeesh-raj-s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pradeeshs835) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeeshs835@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Pradeesh_Raj_S/)
-
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/btw.pradeesh)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pradeeshs835)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeeshs835@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Pradeesh_Raj_S/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/BlueS4pphir3)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/2648651)
 
 
 # 💻 Tech Stack:
