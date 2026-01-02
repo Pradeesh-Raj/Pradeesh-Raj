@@ -21,11 +21,6 @@ Hii👋,I'm Pradeesh Raj S<br>💻I'm interested in Cyber Security and Software 
 [![My Skills](https://skillicons.dev/icons?i=mint&theme=dark)](https://www.linuxmint.com)
 [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.microsoft.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pradeesh-Raj&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pradeesh-Raj&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeesh-Raj&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pradeesh-Raj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
